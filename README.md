@@ -1,19 +1,28 @@
 # SP25-TAM251
 
-注：
-1. 作业我发现每一届的题目有所不同，所以我就尽可能把
+
+## 1 Content
+
 
 RESOURCES
-1. 上课的slide（去年的今年的都可以）
-2. 课本+答案
-3. 作业
+1. `TAM251-BOOK` 
+2. `TAM251-SOlUTION` 
+3. `TAM251-SLIDE` 
+4. `TAM251-note` 
+5. `TAM251-YangShu`
 
 
-EXAM
-1. 大部分都是作业/课本课后题
+IPYNB
+1. hw1-11答案 
+2. quiz复习
+3. final review
 
 
-CONTENT
-1. TAM211分析
-2. stress
+
+## 2 考试经验
+1. 石烨的恩情还不完 
+
+
+
+
 
